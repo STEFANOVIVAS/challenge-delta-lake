@@ -56,11 +56,11 @@ Use the [landing](https://github.com/owshq-academy/ws-delta-lake-deep-dive/blob/
 
 * Choose 2 or maximum of 4 files, and build your data lakehouse
 
-### Joins rules:
+### Joins rules
 
 Use the user_id to join, or you can build your key and surprise our customers and us. Sky is the limit.
 
-### Aggregation rules:
+### Aggregation rules
 
 Create aggregation, such as count or whatever you are comfortable with, and use some analytical transformation using the current files and the repo.
 
@@ -81,12 +81,14 @@ Participate in real-life project with One Way Solution Team
 * 10% discount in 1 Training (3 month to expire)
 
 
-Delivery:
+### Delivery
 
 Send a email with you respository link to cristina.rayssa@owshq.com
 
-Winners:
+### **Winners**
 
-You receive a email saying that they won and will be schedule with One 3ay Data Team to explain about the process of participating in the consulting.
+You receive a email saying that they won and will be schedule with One Way Data Team to explain about the process of participating in the consulting.
 
 No coding knowledge required, only time to participing in some meeting. 
+
+We will enter in contact 2 weeks after the training.

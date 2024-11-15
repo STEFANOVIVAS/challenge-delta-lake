@@ -14,7 +14,10 @@
 
 ### Changing permissions in the local folder ./delta so we can write files there.
 
+    sudo chmod a+rwx ./delta
     
+
+#### This command gives full permissions for everyone to respective folder. Probably not the safer solution but a think that for a testing project it's ok.
 ### Quickstart.py test file
 
     from delta import configure_spark_with_delta_pip

@@ -2,7 +2,7 @@
 
 ### Clone this repository
 
-    git clone....
+    git clone git@github.com:STEFANOVIVAS/challenge-delta-lake.git
 
 ### Build Delta docker image and give it delta_quickstart name.
 

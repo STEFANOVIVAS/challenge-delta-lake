@@ -1,0 +1,15 @@
+services:
+  delta-spark:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
+    
+    volumes:
+      - ./storage:/opt/spark/work-dir/storage
+      - ./src:/opt/spark/work-dir/src
+      - ./delta:/opt/spark/work-dir/delta
+
+# volumes:
+
+#   delta:
